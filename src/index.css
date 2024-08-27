@@ -75,7 +75,7 @@ small, .small {
 header.masthead {
   position: relative;
   background-color: #343a40;
-  background: url('src/assets/bg-masthead (1).jpg') no-repeat center center;
+  background: url('/bg-masthead (1).jpg') no-repeat center center;
   background-size: cover;
   padding-top: 8rem;
   padding-bottom: 8rem;
